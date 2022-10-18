@@ -1,37 +1,37 @@
-<p align="right">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 <hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Guillermo Fernandez </h1>
 
 <h3 align="center">Logistics | Data Scientist </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fernandezguille&color=brightgreen" alt="watching_count" />
-<img src="https://img.shields.io/badge/Age-35-blue" />
-<img src="https://img.shields.io/badge/Focus-Data%20Engineering-brightgreen" />
-<img src="https://img.shields.io/badge/Lives-Argentina-success" />
-<img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=fernandezguille&color=brightgreen" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Age-35-blue" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Argentina-success" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
 </p>
 
- <p align="center">
+<p align="center">
   <em>
-    Currently learning to became a Data Scientist in a bootcamp<br>
-    I am a passionate <b>self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, a <b>very courious person</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> always trying to <b>improve</b> and learn more about <b>any language</b>
-  </em></p>
-<br>
+    Currently learning to became a Data Scientist in a bootcamp  <br>
+    I am a passionate <b>self-learner</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp, a <b>very courious person</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp;, <br>
+    always trying to <b>improve</b> and open in working with <b>new tech stack</b>
+  </em>
+</p>
 
-<h1 align="center">Get in Touch! 📬</h1>
 
-<Br>
+<h3 align="center">Get in Touch! 📬</h3>
 
 <p align="center">
+  <a href="https://linkedin.com/in/fernandezguille"><img alt="Linkedin" title="Coming soon..." src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Fernandezguille"><img alt="Github" title="Guillermo Fernandez Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:fernandez.caruso.g@gmail.com"><img alt="Gmail" title="Guillermo Fernandez Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/guilleyeuge"><img alt="Telegram" title="Guillermo Fernandez Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+</p>
 
-<a href="https://www.linkedin.com/in/fernandezguille" target="blank"><img align="center" src="https://img.shields.io/badge/fernandezguille-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; <a href="mailto:fernandez.caruso.g@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/fernandez.caruso.g@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; <a href="https://www.github.com/fernandezguille" target="blank"><img align="center" src="https://img.shields.io/badge/fernandezguille-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <Br>
-
-
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
