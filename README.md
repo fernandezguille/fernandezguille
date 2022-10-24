@@ -17,7 +17,7 @@
   
 * <em>Currently studying to become a Data Scientist in a bootcamp 
 * I am a passionate <b>self-learner</b> and a <b>very courious person</b>
-* I am always open in working with <b>new tech stack</b>, and trying to <b>improve myself</b></em>
+* I am open in working with <b>new tech stack</b>, always trying to <b>improve myself</b></em>
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> 
 
