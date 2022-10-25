@@ -30,6 +30,7 @@
       <a href="https://jupyter.org/" target="_blank"> <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> </a>
       <a href="https://git-scm.com/" target="_blank"> <img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
       <a href="https://github.com/" target="_blank"> <img alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+      <a href="https://www.docker.com" target="_blank"> <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
       <a href="https://code.visualstudio.com/" target="_blank"> <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" width="40" height="40"/> </a>
 </p>
 
