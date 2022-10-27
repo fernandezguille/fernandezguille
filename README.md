@@ -4,7 +4,7 @@
 <!-- Greeting --> <hr>
 <h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Guillermo Fernandez </h1>
 
-<h2 align="center"> Logistics Technician | Data Scientist </h2>
+<h2 align="center"> Logistics Technician | Data Scientist Jr </h2>
 
 <!-- Your badges -->
 <p align="center">
@@ -17,7 +17,8 @@
   
 * <em>Currently studying to become a Data Scientist in a bootcamp 
 * I am a passionate <b>self-learner</b> and a <b>very courious person</b>
-* I am open in working with <b>new tech stack</b>, always trying to <b>improve myself</b></em>
+* I am open in working with <b>new tech stack</b>, always trying to <b>improve myself</b>
+</em>
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> 
 
@@ -34,11 +35,13 @@
       <a href="https://code.visualstudio.com/" target="Visual Studio Code"> <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" width="40" height="40"/> </a>
 </p>
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 40px>
+<details>
+<summary><h2> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 40px> </summary></h2>
 
 <p align="left">
     <a href="https://github.com/fernandezguille/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=fernandezguille&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 </p>
+</details>
 
 ## Get in Touch! 📬
 
