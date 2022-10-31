@@ -43,6 +43,8 @@ Tech Stack
 <a href="https://git-scm.com/" target="Git"> <img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" style="width:40px;height:40px;"> </a>
 <a href="https://github.com/" target="Github"> <img alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" style="width:40px;height:40px;"> </a>
 <a href="https://www.docker.com" target="Docker"> <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" style="width:40px;height:40px;"> </a> 
+<a href="https://www.mongodb.com" target="MongoDB"> <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" style="width:40px;height:40px;"> </a>
+<a href="https://neo4j.com" target="Neo4j"> <img alt="Neo4j" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4j" style="width:40px;height:40px;"> </a>
 <a href="https://code.visualstudio.com/" target="Visual Studio Code"> <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" style="width:40px;height:40px;"> </a>
 
 <!-- User stats -->
