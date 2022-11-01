@@ -49,13 +49,15 @@ Tech Stack
 
 <!-- User stats -->
 <details> <summary> <h2> 
-Github Stats 
+Some Stats 
 <picture> <img src = "https://user-images.githubusercontent.com/110403753/198710768-f6ec7333-b113-4b7a-8b31-df53ef0abe6d.gif" width="40px"> </picture>
 </h2> </summary> 
 
 <img Title="Github Stats" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=fernandezguille&show_icons=true&count_private=true&theme=tokyonight" style="height:200px;">
-<img Title="Most used Languages" alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandezguille" style="height:200px;"> 
+<!<img Title="Most used Languages" alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandezguille" style="height:200px;">
+<img Title="Typing Speed" alt="Typing Speed" src="https://www.ratatype.com/certificates/en/es/0/4/2/4966042.webp?1667340237" style="height:200px;"> 
 </details>
+
 
 <!-- Contact info -->
 <h2>
