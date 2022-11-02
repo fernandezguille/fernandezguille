@@ -65,7 +65,7 @@ Get in Touch!
 <picture> <img src = "https://media.giphy.com/media/6wcBC9tsubD5jrDL6g/giphy.gif" width="80px"> </picture>
 </h2>
 
-<a href="https://linkedin.com/in/fernandezguille"> <img alt="Linkedin" title="Coming soon..." src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="www.linkedin.com/in/fernandezguillermo"> <img alt="Linkedin" title="Connect with me" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Fernandezguille"><img alt="Github" title="my Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:fernandez.caruso.g@gmail.com"><img alt="Gmail" title="email me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/guilleyeuge"><img alt="Telegram" title="message me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
