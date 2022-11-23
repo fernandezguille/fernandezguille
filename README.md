@@ -71,3 +71,8 @@ Get in Touch!
 <a href="https://github.com/Fernandezguille"><img alt="Github" title="my Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
 <a href="mailto:fernandez.caruso.g@gmail.com"><img alt="Gmail" title="email me" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/guilleyeuge"><img alt="Telegram" title="message me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
+
+-----
+Credits: [Guillermo Fernandez](https://github.com/fernandezguille)
+
+Last Edited on: 23/11/2022
