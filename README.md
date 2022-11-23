@@ -15,9 +15,9 @@ Logistics Technician | Data Scientist Jr
 </h2>
 
 <p align="center">
-  <picture> <img src="https://img.shields.io/badge/Age-35-brightgreen"> </picture>
-  <picture> <img src="https://img.shields.io/badge/Lives-Argentina-brightgreen"> </picture>
-  <picture> <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen"> </picture>
+  <picture> <img src="https://img.shields.io/badge/Age-35-brightgreen?style=flat"> </picture>
+  <picture> <img src="https://img.shields.io/badge/Lives-Argentina-brightgreen?style=flat"> </picture>
+  <picture> <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen?style=flat"> </picture>
 </p>
 
 <h2>
@@ -45,6 +45,8 @@ Tech Stack
 <a href="https://www.docker.com" target="Docker"> <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" style="width:40px;height:40px;"> </a> 
 <a href="https://www.mongodb.com" target="MongoDB"> <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" style="width:40px;height:40px;"> </a>
 <a href="https://neo4j.com" target="Neo4j"> <img alt="Neo4j" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4j" style="width:40px;height:40px;"> </a>
+<a href="https://www.databricks.com" target="Databricks"> <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"> </a>
+<a href="https://powerbi.microsoft.com" target="Power BI"> <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white"> </a>
 <a href="https://code.visualstudio.com/" target="Visual Studio Code"> <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" style="width:40px;height:40px;"> </a>
 
 <!-- User stats -->
@@ -65,7 +67,7 @@ Get in Touch!
 <picture> <img src = "https://media.giphy.com/media/6wcBC9tsubD5jrDL6g/giphy.gif" width="80px"> </picture>
 </h2>
 
-<a href="www.linkedin.com/in/fernandezguillermo"> <img alt="Linkedin" title="Connect with me" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Fernandezguille"><img alt="Github" title="my Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:fernandez.caruso.g@gmail.com"><img alt="Gmail" title="email me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://t.me/guilleyeuge"><img alt="Telegram" title="message me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="www.linkedin.com/in/fernandezguillermo"> <img alt="Linkedin" title="Connect with me" src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Fernandezguille"><img alt="Github" title="my Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+<a href="mailto:fernandez.caruso.g@gmail.com"><img alt="Gmail" title="email me" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://t.me/guilleyeuge"><img alt="Telegram" title="message me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
