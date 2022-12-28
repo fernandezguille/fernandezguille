@@ -37,7 +37,6 @@ Tech Stack
 <a href="https://www.python.org" target="Python"> <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width:40px;height:40px;"> </a> 
 <a href="https://numpy.org/" target="Numpy"> <img alt="Numpy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" style="width:40px;height:40px;"> </a>
 <a href="https://pandas.pydata.org/" target="Pandas"> <img alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width:40px;height:40px;"> </a>
-<a href="https://plotly.com/" target="Plotly"> <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"> </a>
 <a href="https://www.mysql.com/" target="MySQL"> <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" style="width:40px;height:40px;"> </a>
 <a href="https://jupyter.org/" target="Jupyter"> <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" style="width:40px;height:40px;"> </a>
 <a href="https://git-scm.com/" target="Git"> <img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" style="width:40px;height:40px;"> </a>
@@ -46,6 +45,7 @@ Tech Stack
 <a href="https://www.mongodb.com" target="MongoDB"> <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" style="width:40px;height:40px;"> </a>
 <a href="https://neo4j.com" target="Neo4j"> <img alt="Neo4j" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4j" style="width:40px;height:40px;"> </a>
 <a href="https://fastapi.tiangolo.com/" target="FastAPI"> <img alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="width:40px;height:40px;"> </a>
+<a href="https://plotly.com/" target="Plotly"> <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"> </a>
 <a href="https://www.databricks.com" target="Databricks"> <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"> </a>
 <a href="https://powerbi.microsoft.com" target="Power BI"> <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white"> </a>
 <a href="https://code.visualstudio.com/" target="Visual Studio Code"> <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" style="width:40px;height:40px;"> </a>
