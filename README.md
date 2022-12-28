@@ -45,6 +45,7 @@ Tech Stack
 <a href="https://www.docker.com" target="Docker"> <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" style="width:40px;height:40px;"> </a> 
 <a href="https://www.mongodb.com" target="MongoDB"> <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" style="width:40px;height:40px;"> </a>
 <a href="https://neo4j.com" target="Neo4j"> <img alt="Neo4j" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4j" style="width:40px;height:40px;"> </a>
+<a href="https://fastapi.tiangolo.com/" target="FastAPI"> <img alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="width:40px;height:40px;"> </a>
 <a href="https://www.databricks.com" target="Databricks"> <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"> </a>
 <a href="https://powerbi.microsoft.com" target="Power BI"> <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white"> </a>
 <a href="https://code.visualstudio.com/" target="Visual Studio Code"> <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" style="width:40px;height:40px;"> </a>
