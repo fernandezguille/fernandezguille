@@ -11,7 +11,7 @@ I am Guillermo Fernandez
 
 <!-- Profession and Badges -->
 <h2 align="center">
-Logistics Technician | Data Scientist Jr
+Logistics Technician | Data Scientist
 </h2>
 
 <p align="center">
@@ -25,7 +25,7 @@ Something about me...
 </h2> 
 
 * *Currently studying to become a Data Scientist in a bootcamp*  
-* *I am a passionate **self-learner** and a **very courious person***
+* *I consider myself a **critical thinker** and a **problem solver person***
 * *I am open in working with **new tech stack**, always trying to **improve myself***  
 
 <!-- Links of each tool -->
@@ -42,9 +42,12 @@ Tech Stack
 <a href="https://git-scm.com/" target="Git"> <img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" style="width:40px;height:40px;"> </a>
 <a href="https://github.com/" target="Github"> <img alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" style="width:40px;height:40px;"> </a>
 <a href="https://www.docker.com" target="Docker"> <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" style="width:40px;height:40px;"> </a> 
-<a href="https://www.mongodb.com" target="MongoDB"> <img alt="MongoDB" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" style="width:40px;height:40px;"> </a>
-<a href="https://neo4j.com" target="Neo4j"> <img alt="Neo4j" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" alt="neo4j" style="width:40px;height:40px;"> </a>
 <a href="https://fastapi.tiangolo.com/" target="FastAPI"> <img alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="width:40px;height:40px;"> </a>
+<img src="https://user-images.githubusercontent.com/110403753/215380649-1714e39d-a307-4d2d-a304-93d16eb56863.svg" height=40px>
+<img src="https://user-images.githubusercontent.com/110403753/215379351-dcfd79cd-a105-4021-9f97-15ce17f750ce.svg" height=40px>
+<img src="https://user-images.githubusercontent.com/110403753/215379089-297eca2c-319e-49ee-ac8b-22a4f357ee20.svg" height=40px>
+<img src="https://user-images.githubusercontent.com/110403753/215379152-e23020e5-df92-43c9-81d9-cdce6764f635.svg" height=40px>
+<img src="https://user-images.githubusercontent.com/110403753/215378849-e0127a90-1638-4f7c-8ac1-e80bf09cf769.svg" height=40px>
 <a href="https://plotly.com/" target="Plotly"> <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"> </a>
 <a href="https://www.databricks.com" target="Databricks"> <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"> </a>
 <a href="https://powerbi.microsoft.com" target="Power BI"> <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white"> </a>
