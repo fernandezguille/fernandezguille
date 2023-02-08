@@ -34,24 +34,27 @@ Tech Stack
 <picture> <img src = "https://i.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp" width="40px"> </picture>
 </h2>
 
-<a href="https://www.python.org" target="Python"> <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width:40px;height:40px;"> </a> 
-<a href="https://numpy.org/" target="Numpy"> <img alt="Numpy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" style="width:40px;height:40px;"> </a>
-<a href="https://pandas.pydata.org/" target="Pandas"> <img alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" style="width:40px;height:40px;"> </a>
-<a href="https://www.mysql.com/" target="MySQL"> <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" style="width:40px;height:40px;"> </a>
-<a href="https://jupyter.org/" target="Jupyter"> <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" style="width:40px;height:40px;"> </a>
-<a href="https://git-scm.com/" target="Git"> <img alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" style="width:40px;height:40px;"> </a>
-<a href="https://github.com/" target="Github"> <img alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" style="width:40px;height:40px;"> </a>
-<a href="https://www.docker.com" target="Docker"> <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" style="width:40px;height:40px;"> </a> 
-<a href="https://fastapi.tiangolo.com/" target="FastAPI"> <img alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="width:40px;height:40px;"> </a>
-<img src="https://user-images.githubusercontent.com/110403753/215380649-1714e39d-a307-4d2d-a304-93d16eb56863.svg" height=40px>
-<img src="https://user-images.githubusercontent.com/110403753/215379351-dcfd79cd-a105-4021-9f97-15ce17f750ce.svg" height=40px>
-<img src="https://user-images.githubusercontent.com/110403753/215379089-297eca2c-319e-49ee-ac8b-22a4f357ee20.svg" height=40px>
-<img src="https://user-images.githubusercontent.com/110403753/215379152-e23020e5-df92-43c9-81d9-cdce6764f635.svg" height=40px>
-<img src="https://user-images.githubusercontent.com/110403753/215378849-e0127a90-1638-4f7c-8ac1-e80bf09cf769.svg" height=40px>
-<a href="https://plotly.com/" target="Plotly"> <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"> </a>
-<a href="https://www.databricks.com" target="Databricks"> <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"> </a>
-<a href="https://powerbi.microsoft.com" target="Power BI"> <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white"> </a>
-<a href="https://code.visualstudio.com/" target="Visual Studio Code"> <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" style="width:40px;height:40px;"> </a>
+<a href="https://www.python.org" target="Python"> <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width:40px;height:40px;"> </a> 
+<a href="https://numpy.org/" target="Numpy"> <img alt="Numpy" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" style="width:40px;height:40px;"> </a>
+<a href="https://pandas.pydata.org/" target="Pandas"> <img alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="width:40px;height:40px;"> </a>
+<a href="https://plotly.com/" target="Plotly"> <img alt="Plotly" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" style="width:40px;height:40px;"> </a>
+<a href="https://seaborn.pydata.org" target="Seaborn"> <img alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="width:40px;height:40px;"> </a>
+<a href="https://www.sqlalchemy.org/" target="SQLAlchemy"> <img alt="SQLAlchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="width:40px;height:40px;">
+<a href="https://jupyter.org/" target="Jupyter"> <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="width:40px;height:40px;"> </a>
+<a href="https://git-scm.com/" target="Git"> <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width:40px;height:40px;"> </a>
+<a href="https://github.com/" target="Github"> <img alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="width:40px;height:40px;"> </a>
+<a href="https://code.visualstudio.com/" target="Visual Studio Code"> <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="width:40px;height:40px;"> </a>
+<a href="https://www.mysql.com/" target="MySQL"> <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="width:40px;height:40px;"> </a>
+<a href="https://www.docker.com" target="Docker"> <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="width:40px;height:40px;"> </a> 
+<a href="https://fastapi.tiangolo.com/" target="FastAPI"> <img alt="FastAPI" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" style="width:40px;height:40px;"> </a>
+<a href="https://airflow.apache.org/" target="Airflow"> <img alt="Airflow" src="https://miro.medium.com/max/700/0*ICxzNyns9DR90WNS" style="width:40px;height:40px;"> </a>
+<a href="https://aws.amazon.com/" target="AWS"> <img alt="AWS" src="https://user-images.githubusercontent.com/110403753/215379351-dcfd79cd-a105-4021-9f97-15ce17f750ce.svg" style="width:40px;height:40px;"> </a>
+<a href="https://aws.amazon.com/es/ec2/?nc2=h_ql_prod_fs_ec2" target="EC2"> <img alt="EC2" src="https://user-images.githubusercontent.com/110403753/215379089-297eca2c-319e-49ee-ac8b-22a4f357ee20.svg" style="width:40px;height:40px;"> </a>
+<a href="https://aws.amazon.com/es/rds/?nc2=h_ql_prod_fs_rds" target="RDS"> <img alt="RDS" src="https://user-images.githubusercontent.com/110403753/215379152-e23020e5-df92-43c9-81d9-cdce6764f635.svg" style="width:40px;height:40px;"> </a>
+<a href="https://aws.amazon.com/es/s3/?nc2=h_ql_prod_fs_s3" target="S3"> <img alt="S3" src="https://user-images.githubusercontent.com/110403753/215378849-e0127a90-1638-4f7c-8ac1-e80bf09cf769.svg" style="width:40px;height:40px;"> </a>
+<a href="https://www.databricks.com" target="Databricks"> <img alt="Databricks" src="https://assets-global.website-files.com/60d9fbbfcd9fcb40bad8aac3/60fae2c9b6f2dd2ebad2ca05_databricks-logo-icon.png" style="width:40px;height:40px;"> </a>
+<a href="https://powerbi.microsoft.com" target="PowerBI"> <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="width:40px;height:40px;"> </a>
+
 
 <!-- User stats -->
 <details> <summary> <h2> 
