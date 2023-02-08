@@ -40,6 +40,7 @@ Tech Stack
 <a href="https://plotly.com/" target="Plotly"> <img alt="Plotly" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" style="width:40px;height:40px;"> </a>
 <a href="https://seaborn.pydata.org" target="Seaborn"> <img alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="width:40px;height:40px;"> </a>
 <a href="https://www.sqlalchemy.org/" target="SQLAlchemy"> <img alt="SQLAlchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="width:40px;height:40px;">
+<a href="https://scikit-learn.org/stable/index.html" target="SKLearn"> <img alt="SKLearn" src="https://user-images.githubusercontent.com/110403753/215380299-c2e13fce-1063-4626-9af7-fd708af21aed.svg" style="width:40px;height:40px;">
 <a href="https://jupyter.org/" target="Jupyter"> <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="width:40px;height:40px;"> </a>
 <a href="https://git-scm.com/" target="Git"> <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="width:40px;height:40px;"> </a>
 <a href="https://github.com/" target="Github"> <img alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="width:40px;height:40px;"> </a>
