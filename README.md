@@ -15,7 +15,6 @@ Logistics Technician | Data Scientist
 </h2>
 
 <p align="center">
-  <picture> <img src="https://img.shields.io/badge/Age-35-brightgreen?style=flat"> </picture>
   <picture> <img src="https://img.shields.io/badge/Lives-Argentina-brightgreen?style=flat"> </picture>
   <picture> <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen?style=flat"> </picture>
 </p>
@@ -24,7 +23,7 @@ Logistics Technician | Data Scientist
 Something about me...
 </h2> 
 
-* *Currently studying to become a Data Scientist in a bootcamp*  
+* *Data Scientist with logistics background and more than 7 years of experience in supply chain managment*  
 * *I consider myself a **critical thinker** and a **problem solver person***
 * *I am open in working with **new tech stack**, always trying to **improve myself***  
 
@@ -83,4 +82,4 @@ Get in Touch!
 -----
 Credits: [Guillermo Fernandez](https://github.com/fernandezguille)
 
-Last Edited on: 23/11/2022
+Last Edited on: 17/02/2023
