@@ -1,7 +1,7 @@
 <!-- Image -->
 <picture> <img alt="Coding" src="https://user-images.githubusercontent.com/110403753/196526729-72e5196b-7b20-4d63-8c9e-ce78010e159a.gif" align="right" style="width:450px;heigth:450px;"> </picture>
 
-***
+<br>
 <!-- Greeting -->
 <h1 align="center"> 
 Hi! 
@@ -11,14 +11,16 @@ I am Guillermo Fernandez
 
 <!-- Profession and Badges -->
 <h2 align="center">
-Logistics Technician | Data Scientist
+Data Analyst | Data Engineer
+  <br>
+Logistics Technician
 </h2>
-
+<br>
 <p align="center">
   <picture> <img src="https://img.shields.io/badge/Lives-Argentina-brightgreen?style=flat"> </picture>
   <picture> <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen?style=flat"> </picture>
 </p>
-
+<br>
 <h2>
 Something about me...
 </h2> 
