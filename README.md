@@ -11,7 +11,7 @@ I am Guillermo Fernandez
 
 <!-- Profession and Badges -->
 <h2 align="center">
-Data Analyst | Data Engineer
+Data Scientist | Python Developer
   <br>
 Logistics Technician
 </h2>
@@ -84,4 +84,4 @@ Get in Touch!
 -----
 Credits: [Guillermo Fernandez](https://github.com/fernandezguille)
 
-Last Edited on: 17/02/2023
+Last Edited on: 10/09/2024
